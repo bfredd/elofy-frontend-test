@@ -1,4 +1,4 @@
-## Configure and run project
+## Run this project
 yarn dev
 
 ## About project
